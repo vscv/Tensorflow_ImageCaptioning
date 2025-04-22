@@ -18,6 +18,6 @@ PS. 這個超繞的顯示mp4影片方法。先把影片上傳到issue中，再�
 
 
 
-<video src="/vscv/Tensorflow_ImageCaptioning/blob/main/attion_maps_crop_cs-gril_bone.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px" data-video="0">
+<video src="https://github.com/vscv/Tensorflow_ImageCaptioning/blob/main/attion_maps_crop_cs-gril_bone.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px" data-video="0">
 
   </video>
